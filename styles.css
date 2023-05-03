@@ -20,15 +20,15 @@ body{
 	margin-top: 5px;
 
 }
-.div1,.div2,.div3{
+.latest-news-section,.div2,.pictorial-news-section{
 	background-color: white;
 	border-radius: 20px;
 	
 }
-h2 {
+h3 {
 	text-align: center;
 }
-.div1 {
+.latest-news-section {
 	border: 1px solid green;
 	
 	width: 15%;
@@ -41,14 +41,14 @@ h2 {
 	width: 45%;
 	height: 250px;
 }
-.div3 {
+.pictorial-news-section {
 	border: 1px solid green;
 	
 	height: 350px;
 	width: 15%;
 
 }
-.div3 img{
+.pictorial-news-section img{
 	height: 90px;
 	padding-left: 20px;
 }
